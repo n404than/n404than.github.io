@@ -4,12 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-  Salut, moi c'est Nathan CHARLOU et voici mes compétences:
-- I rock a great mustache
-- I'm extremely loyal to my family
+  Salut, moi c'est Nathan CHARLOU, je suis actuellement étudiant en 3eme année de DNMADE Numérique au lycée du Paraclet à Quimper.
+  je suis passionné par le graphisme, la typographie et la 3D. J'aime beaucoup apprendre et expérimenter de nouvelles choses. 
+  Je travail nottament sur la suite ADOBE, Blender et Houdini 
 
-What else do you need?
+### Mon travail
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+voici un exemple de mon travail
