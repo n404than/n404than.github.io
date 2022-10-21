@@ -10,4 +10,4 @@ subtitle: Why you'd want to go on a date with me
 
 ### Mon travail
 
-voici un exemple de mon travail ![footer](/asset/img/header.png) 
+voici un exemple de mon travail ![footer](/assets/img/header.png) 
