@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Qui je suis? 
 ---
 
   Salut, moi c'est Nathan CHARLOU, je suis actuellement étudiant en 3eme année de DNMADE Numérique au lycée du Paraclet à Quimper.
