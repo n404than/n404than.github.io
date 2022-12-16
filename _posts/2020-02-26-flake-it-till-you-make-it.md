@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: G3N3R4T1V3
+subtitle: Procedural work
+cover-img: /assets/img/1ere.png
+thumbnail-img: /assets/img/1ere.png
+share-img: /assets/img/1ere.png
 tags: [books, test]
 ---
 Voici ma dernière production utilisant la génération procédurale sur le logiciel open source Blender
