@@ -7,4 +7,4 @@ thumbnail-img: /assets/img/1ere.png
 share-img: /assets/img/1ere.png
 tags: [books, test]
 ---
-Voici ma dernière production utilisant la génération procédurale sur le logiciel open source Blender
+Voici ma dernière production utilisant la génération procédurale sur le logiciel open source Blender 
