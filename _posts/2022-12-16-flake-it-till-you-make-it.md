@@ -8,4 +8,4 @@ share-img: /assets/img/1ere.png
 tags: [procedurale, test]
 ---
 Voici ma dernière production utilisant la génération procédurale sur le logiciel open source Blender
-[This is an external link to Blender Site]([https://www.genome.gov/](https://www.blender.org))
+[This is an external link to Blender Site](https://www.blender.org)
